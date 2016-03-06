@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="ProfilerSessionFolder" id="{2b14f643-51a6-4961-a85f-6198bfc19ffb}">
+        <relationship name="workspace">
+            <destination>{9a3b5b32-6d11-4d3d-bfae-0ddfeea2db3b}</destination>
+        </relationship>
+    </object>
+</objects>

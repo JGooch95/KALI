@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{7aa33f0f-4baf-4beb-9f13-cd8ef8693259}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>32.427709750566891</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/257185__jagadamba__shaman-hand-frame-drumming-02 {87725661-8fa2-45ec-bd6d-189e83b1a2b3}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{b9e36e96-902d-454f-9a68-4db59c7a8e48}</destination>
+        </relationship>
+    </object>
+</objects>

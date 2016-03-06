@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{3f9b4e16-e304-4155-b9f4-cf9f082e2d13}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>65.040000000000006</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/flock of sheep {cff1e024-6227-42ad-ab4a-bfed710a1beb}.aiff</value>
+        </property>
+        <relationship name="container">
+            <destination>{1f0af788-8f5d-4994-b33e-71f5238e8f9e}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{d1f04ff0-c7f4-44de-acf5-4dc086be8df7}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>8.75</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/eery gate {2616711b-05af-483c-9db5-98a5c807a78b}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{eaf29bf3-8549-47a5-87e8-9ccbd9cf8df0}</destination>
+        </relationship>
+    </object>
+</objects>

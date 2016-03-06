@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{4a71e9d5-aa47-4717-bcf0-2d427c315e30}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.9758541666666667</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/door unlock {47a31680-f980-4fe4-983f-452c85f0b6a0}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{b93a1fc6-a555-4ed7-a93c-a9304faa8207}</destination>
+        </relationship>
+    </object>
+</objects>

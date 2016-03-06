@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.05.00">
+    <object class="AudioFile" id="{b97c164f-e97d-4f8a-8f63-89b176f59d71}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>30.204104308390022</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/slaughter1 {bc6ef32e-7fd2-411b-8562-8204fb017e2d}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{eaf29bf3-8549-47a5-87e8-9ccbd9cf8df0}</destination>
+        </relationship>
+    </object>
+</objects>
